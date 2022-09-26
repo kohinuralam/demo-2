@@ -1,0 +1,518 @@
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+	
+
+}
+
+/* FOR-LG-START */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+	
+	.program-btn ul li:nth-child(1) a {
+	  margin: 0 20px 0 0;
+	}
+
+	.program-btn ul li:nth-child(2) a {
+		  margin-right: 20px;
+	}
+
+	.program-btn ul li:nth-child(3) a {
+		  margin-top: 30px;
+	}
+
+	.finnancial-area {
+	  padding: 10px 0 100px 0;
+	}
+
+	.logo-img {
+	  left: 50%;
+	  top: 115px;
+	}
+	
+}
+
+/*FOR-TABLATE-START*/
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	.topbar {
+		display: none;
+	}
+
+	.logo-img {
+	  top: 30px;
+	}
+
+	.program-upper p br {
+		display: none;
+	}
+
+	.program-right-hadding {
+		margin: 20px 0 0 0;
+	}
+
+	.program-right p br {
+		display: none;
+	}
+
+	.ourimpact-right {
+		margin: 40px 0 0 0;
+	}
+
+	.ourimpact-right ul li:last-child {
+		padding-right: 0;
+	}
+
+	.sole-left p br {
+		display: none;
+	}
+
+	.sole-right {
+		margin: 30px 0 0 0;
+	}
+
+	.heart-area {
+  		padding: 30px 0 50px 0;
+ 	}
+
+	.heart-area .col-lg-7 {
+		order: 2;
+	} 
+
+	.heart-area .col-lg-5 {
+		order: 1;
+	}
+
+	.heart-left {
+		margin: 30px 0 0 0;
+	}
+
+	.heart-left ul li:first-child {
+		padding-left: 0;
+	}
+
+	.camp-right h4 {
+		margin: 20px 0 0 0;
+	}
+
+	.camp-right p br {
+		display: none;
+	}
+
+	.camplink-area {
+    	padding: 1px 0 70px 0;
+  	}
+
+	.camplink-right {
+		margin: 30px 0 0 0;
+	}
+
+	.camplink-left {
+		margin: 30px 0 0 0;
+	}
+
+	.coach-right {
+  		margin: 20px 0 0 0;
+  		text-align: center;
+  	}
+
+  	.coach-left img {
+  		margin: 0 auto;
+  	}
+
+  	 .skill-area {
+    	padding: 40px 0 80px 0;
+ 	}
+
+  	.skill-upper p br {
+  	 	display: none;
+  	 }
+
+  	 .finnancial-area {
+	  padding: 10px 0 80px 0;
+	}
+
+  	 .finnancial-left {
+  	 	margin: 113px 0 0 0;
+  	 }
+
+  	 .finnancial-right h5 br {
+  	 	display: none;
+  	 }
+
+  	 .get-area {
+	  background: #ffffff;
+	  padding: 1px 0 80px 0;
+	}
+
+	.get-part {
+	  padding: 50px 67px 68px 44px;
+	}
+
+  	 .get-left {
+  	 	text-align: center;
+  	 }
+
+  	 .get-right {
+	   text-align: center;
+	   margin: 50px 0 0 0;
+	}
+
+  	.get-inner1 {
+	  left: 0%;
+	  top: 63px;
+	}
+
+	.get-inner2 {
+	  left: 3%;
+	  top: 222px;
+	}
+
+	.modal-backdrop {
+		display: block;
+	}
+
+	
+}
+
+
+/*FOR-MOBIL-START*/
+
+@media screen and (max-width: 767px) {
+
+	.mobil-topbar {
+  		display: block;
+	}
+
+	/* .topbar-cnt {
+		display: none;
+	}
+ */
+	.topbar {
+		display: none;
+	}
+
+	.logo-img {
+	  top: 0px;
+	  
+	}
+
+	.mobil-menubar {
+		display: block;
+	}
+
+	/* .navbar {
+		display: none;
+	}
+ */
+	.program-area {
+  		padding: 70px 0 0 0;
+	}
+
+	.program-part {
+		padding: 37px 19px;
+	}
+
+	.program-left::after {
+		display: block;
+		bottom: -30px;
+	}
+
+	.program-right-hadding {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.program-right-hadding span {
+		order: 1;
+	}
+
+	.program-right-hadding h4 {
+		order: 2;
+	}
+
+	.program-upper p br {
+		display: none;
+	}
+
+	.program-right p br {
+		display: none;
+	}
+
+	.program-btn ul {
+		display: inline;
+	}
+
+	.program-btn ul li {
+		margin-top: 25px;
+	}
+
+	.ourimpact-area {
+  		padding: 1px 0 50px 0;
+	}
+
+	.ourimpact-left {
+		margin: 20px 0 0 0;
+		padding-left: 0;
+	}
+
+	.ourimpact-left ul li {
+		text-align: center;
+	}
+
+	.ourimpact-right {
+		display: none;
+	}
+
+	.sole-part {
+	  padding: 46px 30px;
+	}
+
+	.sole-title {
+		margin: 20px 0 0 0;
+	}
+
+	.sole-title h4 {
+		order: 2;
+		margin: 10px 0 0 0;
+	} 
+
+	.sole-title span {
+		order: 1;
+	} 
+
+	.sole-area .col-lg-7 {
+		order: 2;
+	}
+
+	 .sole-area .col-lg-5 {
+		order: 1;
+	}
+
+	.sole-circle {
+		display: block;
+		bottom: 0px;
+    	right: 71px;
+	}
+
+	.sole-left p br {
+		display: none;
+	}
+
+	.heart-area {
+  		padding: 1px 0 50px 0;
+ 	}
+
+	.heart-left {
+		display: none;
+	}
+
+	.heart-right ul li {
+		text-align: center;
+	}
+
+	.camp-right p br {
+		display: none;
+	}
+
+	.camp-part {
+	    padding: 55px 30px 60px 30px;
+  	}
+
+  	.camp-circle {
+  		display: block;
+    	bottom: -4px;
+    	right: 64px;
+  	}
+
+  	.camp-title h4 {
+  		order: 2;
+  		margin: 8px 0 0 0;
+  	}
+
+  	.camp-title span {
+  		order: 1;
+  		margin: 20px 0 0 0;
+  	}
+
+  	.camplink-area {
+    	padding: 1px 0 50px 0;
+  	}
+
+  	.camplink-right {
+  		display: none;
+  	}
+
+  	.camplink-left {
+  		padding-left: 0;
+  	}
+
+  	.camplink-left ul li {
+  		text-align: center;
+  	}
+
+  	.coach-area {
+    	padding: 1px 0 55px 0;
+  	}
+
+  	.coach-left img {
+  		margin: 0 auto;
+  	}
+
+  	.coach-right p br {
+  		display: none;
+  	}
+
+  	.coach-right {
+  		margin: 20px 0 0 0;
+  		text-align: center;
+  	}
+
+  	.coach-btn br {
+    	display: block;
+  	}
+
+
+  	.coach-right a:last-of-type {
+  		margin: 25px 0 0 0;
+  	}
+
+  	 .coach-right a:first-of-type {
+  	 	margin: 20px 0 0 0;
+  	 }
+
+  	 .skill-area {
+    	padding: 40px 0 140px 0;
+ 	}
+
+  	 .skill-upper p br {
+  	 	display: none;
+  	 }
+
+  	 .skill-upper p {
+  	 	margin: 20px 0 0 0;
+  	 }
+
+  	 .finnancial-area {
+	  padding: 5px 0 120px 0;
+	}
+
+	.finnancial-left {
+		display: none;
+	}
+
+  	 .finnancial-right h5 br {
+  	 	display: none;
+  	 }
+
+  	 .get-area {
+	  padding: 1px 0 66px 0;
+
+	}
+
+  	 .get-part {
+	  	padding: 40px 30px 85px 35px;
+	}
+
+	.get-left h4 {
+		font-size: 40px;
+	}
+
+	.get-left p br {
+		display: none;
+	}
+
+	.get-left a:first-of-type {
+		margin: 20px 0 0 0;
+	}
+
+	.get-left a:last-of-type {
+		margin: 20px 0 0 10px;
+	}
+
+
+  	 .get-right {
+  	 	display: none;
+  	 }
+
+  	 .get-right-mobil {
+  		display: block;
+  		text-align: right;
+  		position: relative;
+	}
+
+	.get-right-mobil img {
+		max-width: 150px;
+	}
+
+	.get-mobil-inner {
+		position: absolute;
+		top: 43px;
+		left: -3px;
+	}
+
+	.gellary-area {
+	  padding: 1px 0 70px 0;
+	}
+
+	.gellary-item {
+  		width: 100%;
+  		margin: 70px 0 0 0;
+  		text-align: center;
+	}
+
+	.gellary-inner1 {
+		margin: 60px 0 0 0;
+	}
+
+	.footer-list ul {
+		display: block;
+		text-align: center;
+	}
+
+	.footer-list ul {
+		padding-right: 0;
+	}
+
+	.contact {
+		padding: 70px 0 0 0;
+	}
+
+	.contact-left,
+  	.contact-right {
+    	width: 100%;
+  	}
+
+  	.contact-left {
+  		order: 2;
+  	}
+
+  	.contact-right {
+  		order: 1;
+  	}
+
+  	.contact-left {
+  		margin: 45px 0 0 0;
+  	}
+
+  	.social-icon {
+  		padding: 70px 0 0 0;
+  	}
+
+  	.social-icon ul li {
+    	padding-right: 33px;
+  	}
+
+  	.modal-backdrop {
+		display: block;
+	}
+
+
+
+
+}
+
+
+
+
+
+		
+		         
